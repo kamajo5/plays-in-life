@@ -1,0 +1,9 @@
+C:\Users\Kamil\Desktop\dotnet\Gra w życie\Gra w życie\bin\Debug\Gra w życie.exe.config
+C:\Users\Kamil\Desktop\dotnet\Gra w życie\Gra w życie\bin\Debug\Gra w życie.exe
+C:\Users\Kamil\Desktop\dotnet\Gra w życie\Gra w życie\bin\Debug\Gra w życie.pdb
+C:\Users\Kamil\Desktop\dotnet\Gra w życie\Gra w życie\obj\Debug\Gra w życie.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\dotnet\Gra w życie\Gra w życie\obj\Debug\Gra_w_życie.Form1.resources
+C:\Users\Kamil\Desktop\dotnet\Gra w życie\Gra w życie\obj\Debug\Gra_w_życie.Properties.Resources.resources
+C:\Users\Kamil\Desktop\dotnet\Gra w życie\Gra w życie\obj\Debug\Gra w życie.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\dotnet\Gra w życie\Gra w życie\obj\Debug\Gra w życie.exe
+C:\Users\Kamil\Desktop\dotnet\Gra w życie\Gra w życie\obj\Debug\Gra w życie.pdb
